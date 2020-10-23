@@ -63,8 +63,4 @@ int main() {
     prob5();
     prob6();
     prob9();
-}
-
-
-
-                    
+}  
